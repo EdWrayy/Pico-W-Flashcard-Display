@@ -72,6 +72,6 @@ def convert_apkg_to_csv(apkg_path: str) -> None:
 if __name__ == "__main__":
     import sys
     if len(sys.argv) < 2:
-        print("Usage: python apkg_to_csv_fixed.py deck.apkg")
+        print("Usage: python ankiToCsv.py deck.apkg")
     else:
         convert_apkg_to_csv(sys.argv[1])
