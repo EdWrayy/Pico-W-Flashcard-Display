@@ -14,6 +14,14 @@ This Raspberry Pi Pico W project enables the Pico W to:
 
 ---
 
+## 🎥 Demo
+Watch a short demo of the project in action:  
+The first part of the video demonstrates how to set up the project.  
+The second part showcases its functionality (**skip to 5:23** to jump straight to that).  
+
+**[▶️ Video Demo](https://your.video.link.here)**
+---
+
 ## 🚀 How to Use
 
 ### 1. Uploading Your Cards
