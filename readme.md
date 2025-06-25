@@ -1,5 +1,7 @@
 # Raspberry Pi Pico W Flashcard Viewer
 
+![Pico Display](Display.jpg)
+
 ## 📘 Description
 
 This Raspberry Pi Pico W project enables the Pico W to:
