@@ -1,6 +1,6 @@
 # Raspberry Pi Pico W Flashcard Viewer
 
-<img src="display.png" alt="Pico Display" width="300">
+![Pico Display](images/demo.png)
 
 ## 📘 Description
 
